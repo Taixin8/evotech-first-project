@@ -1,4 +1,4 @@
-#EVOTECH first project
+# EVOTECH First project
 
 ## Getting Started
 
